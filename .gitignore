@@ -5,4 +5,8 @@
 /data/raw/*
 /data/processed/*
 
+# ignore .env and kaggle folder
+.env
+kaggle
+
 
