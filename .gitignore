@@ -1,3 +1,8 @@
 # Operating System Files
 .DS_Store
 
+# ignore /data/raw and /data/processed directories
+/data/raw/*
+/data/processed/*
+
+
