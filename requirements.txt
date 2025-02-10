@@ -22,6 +22,7 @@ numpy==2.2.2
 packaging==24.2
 pandas==2.2.3
 parso==0.8.4
+patsy==1.0.1
 pexpect==4.9.0
 pickleshare==0.7.5
 pillow==11.1.0
@@ -36,10 +37,12 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 pytz==2025.1
 pyzmq==26.2.0
+scipy==1.15.1
 seaborn==0.13.2
 setuptools==75.8.0
 six==1.17.0
 stack_data==0.6.3
+statsmodels==0.14.4
 tornado==6.4.2
 traitlets==5.14.3
 typing_extensions==4.12.2
